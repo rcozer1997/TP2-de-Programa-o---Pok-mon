@@ -1,0 +1,203 @@
+1.1 - Mew vs Blastoise
+	Mew usou Auto-Destruir
+	Mew - 0.0% HP
+	Blastoise - 79.3% HP
+
+	leonardo perdeu!
+
+1.2 - Pikachu vs Blastoise
+	Blastoise usou Arma de Água
+	Pikachu - 83.4% HP
+	Blastoise - 79.3% HP
+
+	Pikachu usou Bater
+	Pikachu - 83.4% HP
+	Blastoise - 73.5% HP
+
+	Blastoise usou Bater
+	Pikachu - 61.2% HP
+	Blastoise - 73.5% HP
+
+	Pikachu usou Bater
+	Pikachu - 61.2% HP
+	Blastoise - 67.6% HP
+
+	Blastoise usou Proteger
+	Pikachu - 61.2% HP
+	Blastoise - 67.6% HP ( Protegido )
+
+	Pikachu usou Bater
+	Pikachu - 61.2% HP
+	Blastoise - 67.6% HP ( Protegido )
+
+	Blastoise usou Bater
+	Pikachu - 50.1% HP
+	Blastoise - 67.6% HP ( Protegido )
+
+	Pikachu usou Choque do Trovão
+	Pikachu - 50.1% HP
+	Blastoise - 50.1% HP ( Paralisado )
+
+	Pikachu - 50.1% HP
+	Blastoise - 50.1% HP ( Paralisado )
+
+	Pikachu usou Choque do Trovão
+	Pikachu - 50.1% HP
+	Blastoise - 32.7% HP
+
+	Blastoise usou Arma de Água
+	Pikachu - 33.5% HP
+	Blastoise - 32.7% HP
+
+	Pikachu usou Choque do Trovão
+	Pikachu - 33.5% HP
+	Blastoise - 23.9% HP
+
+	Blastoise usou Bater
+	Pikachu - 22.4% HP
+	Blastoise - 23.9% HP
+
+	Pikachu usou Choque do Trovão
+	Pikachu - 22.4% HP
+	Blastoise - 15.2% HP
+
+	Blastoise usou Bater
+	Pikachu - 11.4% HP
+	Blastoise - 15.2% HP
+
+	Pikachu usou Bater
+	Pikachu - 11.4% HP
+	Blastoise - 9.3% HP
+
+	Blastoise usou Proteger
+	Pikachu - 11.4% HP
+	Blastoise - 9.3% HP ( Protegido )
+
+	Pikachu usou Bater
+	Pikachu - 11.4% HP
+	Blastoise - 9.3% HP ( Protegido )
+
+	Blastoise usou Proteger
+	Pikachu - 11.4% HP
+	Blastoise - 9.3% HP ( Protegido )
+
+	Pikachu usou Bater
+	Pikachu - 11.4% HP
+	Blastoise - 9.3% HP ( Protegido )
+
+	Blastoise usou Proteger
+	Pikachu - 11.4% HP
+	Blastoise - 9.3% HP ( Protegido )
+
+	Pikachu usou Bater
+	Pikachu - 11.4% HP
+	Blastoise - 9.3% HP ( Protegido )
+
+	Blastoise usou Arma de Água
+	Pikachu - 0.0% HP
+	Blastoise - 9.3% HP ( Protegido )
+
+	leonardo perdeu!
+
+1.3 - Venosauro vs Blastoise
+	Venosauro usou Dois Gumes
+	Venosauro - 93.6% HP
+	Blastoise - 0.0% HP
+
+	leonardo venceu!
+
+1.4 - Venosauro vs Pikachu
+	Venosauro usou Dois Gumes
+	Venosauro - 90.7% HP
+	Pikachu - 72.1% HP
+
+	Pikachu usou Choque do Trovão
+	Venosauro - 88.3% HP ( Paralisado )
+	Pikachu - 72.1% HP
+
+	Venosauro - 88.3% HP ( Paralisado )
+	Pikachu - 72.1% HP
+
+	Pikachu usou Bater
+	Venosauro - 86.7% HP
+	Pikachu - 72.1% HP
+
+	Venosauro usou Dois Gumes
+	Venosauro - 80.5% HP
+	Pikachu - 44.2% HP
+
+	Pikachu usou Bater
+	Venosauro - 78.9% HP
+	Pikachu - 44.2% HP
+
+	Venosauro usou Dois Gumes
+	Venosauro - 72.7% HP
+	Pikachu - 16.4% HP
+
+	Pikachu usou Onda de Choque
+	Venosauro - 72.7% HP ( Paralisado )
+	Pikachu - 16.4% HP
+
+	Venosauro - 72.7% HP ( Paralisado )
+	Pikachu - 16.4% HP
+
+	Pikachu usou Bater
+	Venosauro - 71.1% HP
+	Pikachu - 16.4% HP
+
+	Venosauro usou Dois Gumes
+	Venosauro - 64.9% HP
+	Pikachu - 0.0% HP
+
+	leonardo venceu!
+
+1.5 - Venosauro vs Charizard
+	Venosauro usou Dois Gumes
+	Venosauro - 66.1% HP
+	Charizard - 92.7% HP
+
+	Charizard usou Dormir
+	Venosauro - 66.1% HP
+	Charizard - 92.7% HP ( Dormindo )
+
+	Venosauro usou Dois Gumes
+	Venosauro - 64.0% HP
+	Charizard - 85.4% HP ( Dormindo )
+
+	Venosauro - 64.0% HP
+	Charizard - 85.4% HP ( Dormindo )
+
+	Venosauro usou Dois Gumes
+	Venosauro - 59.8% HP
+	Charizard - 70.9% HP ( Dormindo )
+
+	Venosauro - 59.8% HP
+	Charizard - 70.9% HP ( Dormindo )
+
+	Venosauro usou Dois Gumes
+	Venosauro - 57.7% HP
+	Charizard - 92.7% HP
+
+	Charizard usou Lança Chamas
+	Venosauro - 30.5% HP
+	Charizard - 92.7% HP
+
+	Venosauro usou Dois Gumes
+	Venosauro - 28.4% HP
+	Charizard - 85.4% HP
+
+	Charizard usou Bater
+	Venosauro - 19.6% HP
+	Charizard - 85.4% HP
+
+	Venosauro usou Dois Gumes
+	Venosauro - 17.5% HP
+	Charizard - 78.2% HP
+
+	Charizard usou Lança Chamas
+	Venosauro - 0.0% HP ( Queimando )
+	Charizard - 78.2% HP
+
+	leonardo perdeu!
+
+	Fim do jogo 1 leonardo sebreviveu 2 batalhas
